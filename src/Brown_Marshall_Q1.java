@@ -14,7 +14,7 @@ public class Brown_Marshall_Q1 {
             input = kbd.nextFloat();
         }
 
-        System.out.println(qualityPoints(input));
+        System.out.println("Your result is: "+qualityPoints(input));
     }
 
     public static int qualityPoints(float input){
